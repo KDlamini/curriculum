@@ -45,6 +45,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
  
 * Add your solution below this line!
+* [Simo_Nkosi's Solution](https://github.com/KDlamini/Etch-A-Sketch/tree/gh-pages) - [View in Browser](https://kdlamini.github.io/Etch-A-Sketch/)
 * [bensbread120's Solution](https://github.com/bensbread120/Etch-A-Sketch.git) - [View in Browser](https://bensbread120.github.io/Etch-A-Sketch/)
 * [kloba1004's Solution](https://github.com/kloba1004/Project-Etch-a-Sketch/tree/master) - [View in Browser](https://kloba1004.github.io/Project-Etch-a-Sketch/)
 * [BlackShredGold's Solution](https://github.com/BlackShredGold/etch-a-sketch) - [View in Browser](https://blackshredgold.github.io/etch-a-sketch/)
